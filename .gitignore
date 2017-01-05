@@ -4,4 +4,4 @@
 .DS_Store
 to_review/
 Clustering/
-ImageRecognition/
+ImageRecognition/vgg16_weights.npz
