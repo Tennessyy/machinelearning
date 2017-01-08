@@ -5,3 +5,5 @@
 to_review/
 Clustering/
 ImageRecognition/vgg16_weights.npz
+*.pyc
+**/*.pyc
